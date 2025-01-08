@@ -1,0 +1,1 @@
+This Image Captioning project generates textual descriptions for images using a deep learning architecture that combines CNNs (e.g., ResNet) for feature extraction and LSTMs for caption generation. It is trained on the Flickr8k dataset and includes support for preprocessing, training, and inference. 
